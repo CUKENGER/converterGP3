@@ -1,2 +1,4 @@
 files/*
+output/*
+output_chunks/*
 venv
